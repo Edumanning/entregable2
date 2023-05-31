@@ -1,0 +1,30 @@
+/* ---RESET -- */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Sora', sans-serif;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+input, button {
+    font-family: inherit ;
+}
+
+button {
+    border: none;
+    cursor: pointer;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
